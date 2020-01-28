@@ -117,6 +117,3 @@ then watch the test pass!
 # Submission Directions
 
 Upload a single `ruby_intro.rb` file to the autograder.
-
-HW-1 due date is 1st week of February
-
